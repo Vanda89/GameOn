@@ -1,8 +1,8 @@
-# Projet GameOn
+# Bootcamp Project GameOn - Créer une landing page avec Javascript
 
-### Scénario 
+## Scénario 
 
-Vous avez récemment été embauché comme développeur Front-End junior dans une PME, GameOn, spécialisée dans les conférences et les concours de jeux. Vous avez fait du shadowing de votre développeur principal, Erika, pour suivre son travail au quotidien.
+Vous avez récemment été embauché comme développeur Front-End junior chez GameOn, une PME spécialisée dans les conférences et concours de jeux. Votre mission est de reprendre un projet de formulaire d'inscription laissé par un développeur précédent et de le compléter pour le rendre pleinement fonctionnel.
 
 <hr style="background-color:black">
 
@@ -11,15 +11,39 @@ Vous avez récemment été embauché comme développeur Front-End junior dans un
 
 <hr style="background-color:black">
 
-### Mission
+## Informations Générales
+Le formulaire d'inscription a été partiellement réalisé par Jason, un ancien employé. Il a travaillé sur la structure HTML, la mise en page CSS, et une partie du JavaScript. Votre tâche consiste à finaliser le JavaScript manquant et à assurer le bon fonctionnement du formulaire, en respectant les directives suivantes :
+- Travailler sur un repo GitHub forké
+- Séparer les fichiers HTML, CSS et JavaScript
+- Ajouter des commentaires pour chaque fonction et classe
+- Tester manuellement les fonctionnalités et assurer la compatibilité responsive
 
-- Travailler sur un repo GitHub forké ;
-- Utiliser des fichiers séparés pour le HTML, le CSS et le JavaScript ;
-- Ajouter le code Java>Script manquant pour que le formulaire soit pleinement fonctionnel
-- Toujours commenter son code (décrire chaque fonction et chaque classe, ainsi que les parties du code qui nécessitent plus de détails) ;
-- Tester manuellement les fonctionnalités, les entrées de formulaire et l'affichage responsive.
-  
+## Missions
+1. **Analyse du code existant** : Comprendre le travail déjà effectué par Jason et lire les issues créées sur GitHub.
+2. **Ajout du JavaScript manquant** : Implémenter les fonctionnalités manquantes pour rendre le formulaire pleinement fonctionnel.
+3. **Tests manuels** : Valider les entrées du formulaire et vérifier que le site est responsive.
+4. **Commentaires** : Ajouter des commentaires dans le code pour expliquer les fonctions, classes et sections complexes.
 
-### Maquettes 
+## Technologies Utilisées
+- **HTML5** : Structure du site
+- **CSS3** : Mise en page et style
+- **JavaScript** : Fonctionnalités dynamiques du formulaire
+- **Git & GitHub** : Gestion de version et collaboration
 
-<a href="https://www.figma.com/file/B7NKBDvSI18uoMLJgpnh48/UI-Design-GameOn-FR?node-id=106%3A630&mode=dev">Lien vers Figma : GameOn (mobile et desktop)</a>
+## Installation
+Pour installer et lancer le projet localement, suivez les étapes suivantes :
+
+1. **Cloner le repo forké** :
+```bash
+git clone https://github.com/Vanda89/GameOn-website-FR
+```
+
+2. **Accéder au dossier du projet** :
+```bash
+cd gameon-form
+```
+
+## Liens utiles
+
+- Maquettes Figma du projet : [Lien](https://www.figma.com/design/XI9iTrmPPMDq1HVrGEuMez/UI-Design-GameOn-FR-(Copy)?node-id=0-1&node-type=canvas&t=ri8BjXFYWlXNJEsR-0)
+- Lien vers Github Page : [GameOn](https://vanda89.github.io/GameOn-website-FR/)
